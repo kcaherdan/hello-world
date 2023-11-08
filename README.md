@@ -11,7 +11,7 @@ Create a new github repository called "hello-world"
 3. Input repository name as "hello-world"
 4. Make repository "Public"
 5. Add a README file and select "Create repository" 
-![create repository](img/createrepo.jpg)
+![create repository](img/create repo.jpg)
 
 
 6. New repository created!
