@@ -21,6 +21,6 @@ Create a new github repository called "hello-world"
 ![upload files](img/uploadfiles.jpg)
 Drag additional files here.
 
-![drag files here](img/drag files here.jpg)
+![drag files here](img/dragfileshere.jpg)
 
 8
